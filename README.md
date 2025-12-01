@@ -26,7 +26,7 @@ La información se almacena en **MySQL** utilizando **Spring Data JPA**.
 ## 🚀 Instalación y Ejecución
 
 ### 1. Clonar el repositorio
-git clone https://github.com/jsco1809/GuardianShopErrorControl.git
+git clone https://github.com/jsco1809/GuardianShopErrorControl
 cd GuardianShopErrorControl
 
 ### 2. Configurar la base de datos en `application.properties`
