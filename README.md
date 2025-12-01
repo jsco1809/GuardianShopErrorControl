@@ -111,7 +111,7 @@ http://localhost:8080/swagger-ui/index.html
 
 ---
 
-## 👤 Autor
-**Sak Global – Microservicio de Control de Errores**  
-Desarrollado para fortalecer la trazabilidad, auditoría y confiabilidad en los microservicios de la plataforma.
+## 👤 Autores
+Jefferson Andrés Moreno Pedraza  
+Johan Sebastián Cárdenas Orozco  
 
