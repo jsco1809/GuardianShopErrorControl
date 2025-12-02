@@ -11,11 +11,13 @@ spring:
       disable-swagger-default-url: true
       path: /swagger
   datasource:
-    url: ENC(${URL_DB})
-    username: ENC(${USERNAME_DB})
-    password: ENC(${PSS})
+    url: ${URL_DB}
+    username: ${USERNAME_DB}
+    password: ${PSS}
     driver-class-name: ${DRIVE}
-
+  data:
+    redis:
+      enabled: false
 jasypt:
   encryptor:
     algorithm: PBEWithMD5AndDES
